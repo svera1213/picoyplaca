@@ -2,8 +2,9 @@
  
 ## Add .env file
 
-POSTGRES_NAME=
-POSTGRES_USER=
+
+POSTGRES_NAME=<br />
+POSTGRES_USER=<br />
 POSTGRES_PASSWORD=
 
 ## Run the following (for the first time)
