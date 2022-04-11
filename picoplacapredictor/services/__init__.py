@@ -1,0 +1,1 @@
+from .plate_predictor_service import PlatePredictorService
